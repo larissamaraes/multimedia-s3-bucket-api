@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: https://s3.us-east-2.amazonaws.com
+  accessKey: "AKIAJY6UV5O2K76C2QKA"
+  secretKey: "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"
+  bucketName: poc-s3-bucket-test
